@@ -1,0 +1,53 @@
+{
+    "training":[
+       {
+          "id":1,
+          "name":"Khadijah",
+          "university":"PNU",
+          "Uni_logo":"http://www.pnu.edu.sa/ar/Publishingimages/logo.png",
+          "major":"IS",
+          "position":"Trainee"
+       },
+       {
+          "id":2,
+          "name":"lamees",
+          "university":"imamu",
+          "Uni_logo":"https://imamu.edu.sa/_layouts/15/Imam/Images/svg/imamuLogoSvg1.svg",
+          "major":"CS",
+          "position":"Trainee"
+       },
+       {
+          "id":3,
+          "name":"abdulrahman",
+          "university":"MU",
+          "Uni_logo":"https://www.mu.edu.sa/sites/default/themes/majamaahenglish/images/v4/ar/mu_logo.png",
+          "major":"CS",
+          "position":"Trainer"
+       }
+    ],
+    "sections":[
+       {
+          "id":1,
+          "name":"B2B Frontend Delivery",
+          "manager":""
+       },
+       {
+          "id":2,
+          "name":"B2B backend Delivery",
+          "manager":""
+       },
+       {
+          "id":3,
+          "name":"B2B Design",
+          "manager":""
+       },
+       {
+          "id":4,
+          "name":"B2B Release management",
+          "manager":""
+       }
+    ],
+    "profile":{
+       "name":"list"
+    }
+ }
