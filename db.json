@@ -23,7 +23,15 @@
           "Uni_logo":"https://www.mu.edu.sa/sites/default/themes/majamaahenglish/images/v4/ar/mu_logo.png",
           "major":"CS",
           "position":"Trainer"
-       }
+       },
+       {
+        "id":4,
+        "name":"Test",
+        "university":"MU",
+        "Uni_logo":"https://www.mu.edu.sa/sites/default/themes/majamaahenglish/images/v4/ar/mu_logo.png",
+        "major":"CS",
+        "position":"Trainee"
+     }
     ],
     "sections":[
        {
